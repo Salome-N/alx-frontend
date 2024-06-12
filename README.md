@@ -1,4 +1,4 @@
-<u>ALX Frontend<u><br>
+##<ins>ALX Frontend</ins><br>
 <br>
 Learning more on HTML and CSS<br>
 <br>

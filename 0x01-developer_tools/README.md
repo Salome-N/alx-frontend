@@ -1,4 +1,4 @@
-<u>Developer tools<u><br>
+##<ins>Developer tools</ins><br>
 <br>
 - What Developer Tools in your browser are<br>
 - How to open the Developer Tools on Chrome, Firefox, Safari, and Edge<br>
