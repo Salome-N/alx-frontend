@@ -1,4 +1,4 @@
-##<ins>Advanced HTML</ins><br>
+## <ins>**Advanced HTML**</ins><br>
 <br>
 - Which guidelines to follow for HTML<br>
 - How to create the skeleton of an HTML5 page<br>
